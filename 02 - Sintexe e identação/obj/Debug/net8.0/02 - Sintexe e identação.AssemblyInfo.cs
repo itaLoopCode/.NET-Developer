@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02 - Sintexe e identação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae7f242df05487f44f6405f5dd8033c3c681d38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+272d5f4ba916e32493fe1cfe8c5c3e140f2c3abc")]
 [assembly: System.Reflection.AssemblyProductAttribute("02 - Sintexe e identação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02 - Sintexe e identação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
