@@ -1,0 +1,14 @@
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\bin\Debug\net8.0\.NET Fundamentos.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\bin\Debug\net8.0\.NET Fundamentos.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\bin\Debug\net8.0\.NET Fundamentos.runtimeconfig.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\bin\Debug\net8.0\.NET Fundamentos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\bin\Debug\net8.0\.NET Fundamentos.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.AssemblyInfo.cs
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\refint\.NET Fundamentos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\.NET Fundamentos.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET Fundamentos\obj\Debug\net8.0\ref\.NET Fundamentos.dll
