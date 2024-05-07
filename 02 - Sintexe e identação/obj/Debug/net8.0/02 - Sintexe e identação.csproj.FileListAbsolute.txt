@@ -1,0 +1,5 @@
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.AssemblyInfoInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.AssemblyInfo.cs
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.csproj.CoreCompileInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.sourcelink.json
