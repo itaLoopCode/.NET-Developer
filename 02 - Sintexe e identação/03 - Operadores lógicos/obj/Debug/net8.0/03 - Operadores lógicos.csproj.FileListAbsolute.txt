@@ -1,0 +1,15 @@
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.AssemblyInfoInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.AssemblyInfo.cs
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.sourcelink.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\bin\Debug\net8.0\03 - Operadores lógicos.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\bin\Debug\net8.0\03 - Operadores lógicos.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\bin\Debug\net8.0\03 - Operadores lógicos.runtimeconfig.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\bin\Debug\net8.0\03 - Operadores lógicos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\bin\Debug\net8.0\03 - Operadores lógicos.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\refint\03 - Operadores lógicos.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\03 - Operadores lógicos.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\03 - Operadores lógicos\obj\Debug\net8.0\ref\03 - Operadores lógicos.dll
