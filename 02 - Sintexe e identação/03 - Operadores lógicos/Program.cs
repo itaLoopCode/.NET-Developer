@@ -13,7 +13,9 @@ else
     Console.WriteLine("Entrada negada");
 }
 
+// operador && segue a mesmo lógica segundo tabela verdade
 
+// operador not "!" nega o valor de um bool
 
 
 
