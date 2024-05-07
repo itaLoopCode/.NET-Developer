@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - Sintexe e identação.csproj": {}
+    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores01DeAtribuicao\\operadores01DeAtribuicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - Sintexe e identação.csproj": {
+    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores01DeAtribuicao\\operadores01DeAtribuicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - Sintexe e identação.csproj",
-        "projectName": "02 - Sintexe e identação",
-        "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - Sintexe e identação.csproj",
+        "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores01DeAtribuicao\\operadores01DeAtribuicao.csproj",
+        "projectName": "operadores01DeAtribuicao",
+        "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores01DeAtribuicao\\operadores01DeAtribuicao.csproj",
         "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\obj\\",
+        "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores01DeAtribuicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
