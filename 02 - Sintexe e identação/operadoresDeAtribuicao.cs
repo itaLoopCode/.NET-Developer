@@ -25,3 +25,9 @@ Console.WriteLine(b);
 
 // convert funcioca com valores null
 //parse não converte e fecha o programa para o usuário
+//______________________________________________
+//conversão para String
+
+int d = 7;
+string e = d.ToString();
+Console.WriteLine(e);
