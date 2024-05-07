@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("02 - Sintexe e identação")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("operadores02Condicionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+265a7003ac1203bfdf207ceba2de4d303e479f5a")]
-[assembly: System.Reflection.AssemblyProductAttribute("02 - Sintexe e identação")]
-[assembly: System.Reflection.AssemblyTitleAttribute("02 - Sintexe e identação")]
+[assembly: System.Reflection.AssemblyProductAttribute("operadores02Condicionais")]
+[assembly: System.Reflection.AssemblyTitleAttribute("operadores02Condicionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
