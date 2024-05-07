@@ -3,3 +3,13 @@ C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\
 C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.AssemblyInfo.cs
 C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.csproj.CoreCompileInputs.cache
 C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.sourcelink.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\bin\Debug\net8.0\02 - Sintexe e identação.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\bin\Debug\net8.0\02 - Sintexe e identação.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\bin\Debug\net8.0\02 - Sintexe e identação.runtimeconfig.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\bin\Debug\net8.0\02 - Sintexe e identação.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\bin\Debug\net8.0\02 - Sintexe e identação.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\refint\02 - Sintexe e identação.dll
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\02 - Sintexe e identação.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\obj\Debug\net8.0\ref\02 - Sintexe e identação.dll
