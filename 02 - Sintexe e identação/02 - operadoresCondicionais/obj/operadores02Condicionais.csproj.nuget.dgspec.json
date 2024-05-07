@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores02Condicionais\\operadores02Condicionais.csproj": {}
+    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - operadoresCondicionais\\operadores02Condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores02Condicionais\\operadores02Condicionais.csproj": {
+    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - operadoresCondicionais\\operadores02Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores02Condicionais\\operadores02Condicionais.csproj",
+        "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - operadoresCondicionais\\operadores02Condicionais.csproj",
         "projectName": "operadores02Condicionais",
-        "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores02Condicionais\\operadores02Condicionais.csproj",
+        "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - operadoresCondicionais\\operadores02Condicionais.csproj",
         "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\operadores02Condicionais\\obj\\",
+        "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\02 - operadoresCondicionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
