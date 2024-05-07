@@ -40,5 +40,16 @@ Console.WriteLine(g);
 
 //ordem dos operadores
 
-double h = 4 / 2 + 2;
+//Poderíamos terminar logo: a ordem para realizar as operações é parênteses, potências, multiplicações e divisões e adição e subtração. As conjunções de ligação na sentença anterior estão bem posicionadas. "Multiplicações e divisões" e "adição e subtração" têm a mesma prioridade
+
+double h = 2 * 4 / (2 + 2);
 Console.WriteLine(h);
+
+// convertendo de maneira segura
+
+string i = "15-";
+//int j = 0;
+
+int.TryParse(i, out int j);
+
+Console.WriteLine(j);
