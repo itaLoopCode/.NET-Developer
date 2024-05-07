@@ -28,6 +28,17 @@ Console.WriteLine(b);
 //______________________________________________
 //conversão para String
 
-int d = 7;
+int d = int.MaxValue;
 string e = d.ToString();
 Console.WriteLine(e);
+
+//cast implícito
+
+int f = 5;
+double g = f;
+Console.WriteLine(g);
+
+//ordem dos operadores
+
+double h = 4 / 2 + 2;
+Console.WriteLine(h);
