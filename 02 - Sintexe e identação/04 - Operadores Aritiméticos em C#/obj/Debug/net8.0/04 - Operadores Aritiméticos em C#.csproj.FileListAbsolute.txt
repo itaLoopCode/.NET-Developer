@@ -1,0 +1,15 @@
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.AssemblyInfoInputs.cache
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.AssemblyInfo.cs
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.csproj.CoreCompileInputs.cache
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.sourcelink.json
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\bin\Debug\net8.0\04 - Operadores Aritiméticos em C#.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\bin\Debug\net8.0\04 - Operadores Aritiméticos em C#.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\bin\Debug\net8.0\04 - Operadores Aritiméticos em C#.runtimeconfig.json
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\bin\Debug\net8.0\04 - Operadores Aritiméticos em C#.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\bin\Debug\net8.0\04 - Operadores Aritiméticos em C#.pdb
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\refint\04 - Operadores Aritiméticos em C#.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\04 - Operadores Aritiméticos em C#.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\04 - Operadores Aritiméticos em C#\obj\Debug\net8.0\ref\04 - Operadores Aritiméticos em C#.dll
