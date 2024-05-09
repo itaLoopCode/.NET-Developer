@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04 - Operadores Aritiméticos em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba16c78f6534dce1aa74cd182058202c0b9e9b82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a0056536081d67be4adf3cb3ba057a9d64ddd7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("04 - Operadores Aritiméticos em C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04 - Operadores Aritiméticos em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
