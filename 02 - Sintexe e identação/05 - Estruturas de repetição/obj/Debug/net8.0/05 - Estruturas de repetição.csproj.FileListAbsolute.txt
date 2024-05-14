@@ -1,0 +1,15 @@
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.AssemblyInfoInputs.cache
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.AssemblyInfo.cs
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.csproj.CoreCompileInputs.cache
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.sourcelink.json
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\bin\Debug\net8.0\05 - Estruturas de repetição.exe
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\bin\Debug\net8.0\05 - Estruturas de repetição.deps.json
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\bin\Debug\net8.0\05 - Estruturas de repetição.runtimeconfig.json
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\bin\Debug\net8.0\05 - Estruturas de repetição.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\bin\Debug\net8.0\05 - Estruturas de repetição.pdb
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\refint\05 - Estruturas de repetição.dll
+c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.pdb
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\05 - Estruturas de repetição.genruntimeconfig.cache
+C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\05 - Estruturas de repetição\obj\Debug\net8.0\ref\05 - Estruturas de repetição.dll
