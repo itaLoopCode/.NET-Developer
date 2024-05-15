@@ -34,3 +34,4 @@ do{
 }while(numero != 0);
 
 Console.WriteLine($"Total da soma dos numero digitáveis é: {soma}");
+
