@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj": {}
+    "c:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj": {
+    "c:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj",
+        "projectUniqueName": "c:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj",
         "projectName": "05 - Estruturas de repetição",
-        "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj",
+        "projectPath": "c:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\05 - Estruturas de repetição.csproj",
         "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\obj\\",
+        "outputPath": "c:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\02 - Sintexe e identação\\05 - Estruturas de repetição\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
