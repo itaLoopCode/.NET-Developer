@@ -14,8 +14,23 @@
 
 //While
 
-while (contador <= 10)
-{
-    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-    contador++;
-}
+// while (contador <= 10)
+// {
+//     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+//     contador++;
+// }
+
+// DO While
+
+int soma = 0;
+
+
+do{
+    Console.WriteLine("Digite um numero (zero para parar)");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    soma += numero;
+
+}while(numero != 0);
+
+Console.WriteLine($"Total da soma dos numero digitáveis é: {soma}");
