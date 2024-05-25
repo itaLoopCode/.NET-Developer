@@ -23,8 +23,7 @@ namespace DesafioFundamentos.Models
             Console.WriteLine("Digite a placa do veículo para remover:");
 
             // Pedir para o usuário digitar a placa e armazenar na variável placa
-            string placa = Console.ReadLine();
-
+            string veiculo = Console.ReadLine();
             string placa = "";
 
             // Verifica se o veículo existe
@@ -32,20 +31,14 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
 
-int horas;
-decimal valorTotal;
-
-Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
-horas = int.Parse(Console.ReadLine());
-
-valorTotal = precoInicial + precoPorHora * horas;
-
-                int horas = 0;
-                decimal valorTotal = 0; 
+                // TODO: Pedir para o usuário digitar a quantidade de horas que o veículo permaneceu estacionado,
+                // TODO: Realizar o seguinte cálculo: "precoInicial + precoPorHora * horas" para a variável valorTotal                
+                int horas = Console.ReadLine().Split(' ')[0].Split()
+                
+                decimal valorTotal = precoInicial + precoPorHora; 
 
                 // TODO: Remover a placa digitada da lista de veículos
-                veiculos.Remove(placa.ToUpper());
-
+                Array.RemoveAt(placa);
 
                 Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
             }
@@ -62,11 +55,12 @@ valorTotal = precoInicial + precoPorHora * horas;
             {
                 Console.WriteLine("Os veículos estacionados são:");
                 // TODO: Realizar um laço de repetição, exibindo os veículos estacionados
-                /foreach (string veiculo in veiculos)
-{
-    Console.WriteLine(veiculo);
-}
+                int[] array = new int[] { 1, 2, 3, 4, 5 };
 
+for (int i = 0; i < veiculos.Length; i++)
+{
+    Console.WriteLine(veiculos[i]);
+}
             }
             else
             {
