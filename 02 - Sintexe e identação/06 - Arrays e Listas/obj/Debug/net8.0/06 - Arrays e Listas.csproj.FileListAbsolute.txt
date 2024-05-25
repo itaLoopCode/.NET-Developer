@@ -1,15 +1,30 @@
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\bin\Debug\net8.0\06 - Arrays e Listas.exe
-C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\bin\Debug\net8.0\06 - Arrays e Listas.deps.json
-C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\bin\Debug\net8.0\06 - Arrays e Listas.runtimeconfig.json
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\bin\Debug\net8.0\06 - Arrays e Listas.dll
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\bin\Debug\net8.0\06 - Arrays e Listas.pdb
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.AssemblyInfoInputs.cache
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.AssemblyInfo.cs
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.csproj.CoreCompileInputs.cache
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.sourcelink.json
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.dll
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\refint\06 - Arrays e Listas.dll
-c:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.pdb
-C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\06 - Arrays e Listas.genruntimeconfig.cache
-C:\Users\Italo\OneDrive\Área de Trabalho\Engenharia de Software\.NET DEVELOPER\02 - Sintexe e identação\06 - Arrays e Listas\obj\Debug\net8.0\ref\06 - Arrays e Listas.dll
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.exe
+C:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.deps.json
+C:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.runtimeconfig.json
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.dll
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.pdb
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.AssemblyInfoInputs.cache
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.AssemblyInfo.cs
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.csproj.CoreCompileInputs.cache
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.sourcelink.json
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.dll
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/refint/06 - Arrays e Listas.dll
+c:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.pdb
+C:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.genruntimeconfig.cache
+C:/Users/Italo/OneDrive/Área de Trabalho/Engenharia de Software/.NET DEVELOPER/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/ref/06 - Arrays e Listas.dll
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.deps.json
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.runtimeconfig.json
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.dll
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/bin/Debug/net8.0/06 - Arrays e Listas.pdb
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.AssemblyInfoInputs.cache
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.AssemblyInfo.cs
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.csproj.CoreCompileInputs.cache
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.sourcelink.json
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.dll
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/refint/06 - Arrays e Listas.dll
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.pdb
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/06 - Arrays e Listas.genruntimeconfig.cache
+/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/02 - Sintexe e identação/06 - Arrays e Listas/obj/Debug/net8.0/ref/06 - Arrays e Listas.dll

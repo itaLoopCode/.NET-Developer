@@ -8,23 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Italo\\.nuget\\packages\\": {}
+    "/home/italoop/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\Fundamentos\\.NET Fundamentos.csproj",
+      "projectUniqueName": "/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/01 - Fundamentos/.NET Fundamentos.csproj",
       "projectName": ".NET Fundamentos",
-      "projectPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\Fundamentos\\.NET Fundamentos.csproj",
-      "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Italo\\OneDrive\\Área de Trabalho\\Engenharia de Software\\.NET DEVELOPER\\Fundamentos\\obj\\",
+      "projectPath": "/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/01 - Fundamentos/.NET Fundamentos.csproj",
+      "packagesPath": "/home/italoop/.nuget/packages/",
+      "outputPath": "/home/italoop/Área de Trabalho/Engenharia de Software/DOTNET-Developer/01 - Fundamentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/italoop/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
@@ -35,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
